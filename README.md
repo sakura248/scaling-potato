@@ -266,6 +266,7 @@ BigDecimal is a part of which Java package?
 
 > d) java.io
 
+***
 #### Question 21
 Solve an equation:
 

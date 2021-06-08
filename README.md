@@ -134,7 +134,7 @@ public static void main(String[] args){
 
 > c) Type Mismatch error
 
-> d) -123
+> d) -128
 
 ***
 #### Question 12

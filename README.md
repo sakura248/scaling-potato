@@ -14,6 +14,8 @@ Which are the keywords not in use?
 
 > d) const and goto
 
+> Answer: :)
+
 ***
 #### Question 2
 Keywords are non-reserved word in java
